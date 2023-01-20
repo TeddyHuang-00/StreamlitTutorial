@@ -1,11 +1,5 @@
-# streamlit-app-template
+# Streamlit 教程
 
-This is a template repository for creating Streamlit apps
+此仓库为 Streamlit 教程的配套代码仓库。
 
-Write your Streamlit app to the [`main.py`](./main.py) file. Add any additional files to the [`pages`](./pages) directory.
-
-Add any additional dependencies to the [`requirements.txt`](./requirements.txt) file. Streamlit Cloud will install the dependencies when deploying your app.
-
-App configurations are in [`config.toml`](./.streamlit/config.toml).
-
-If you want to use `st.secrets`, you can create a file called `secrets.toml` in the folder [`.streamlit`](./.streamlit). This file will be ignored by git.
+教程正文见：[Streamlit 教程](https://teddyhuang-00.github.io/posts/2023/01/streamlit-tutorial-preface)

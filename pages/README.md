@@ -1,1 +1,0 @@
-You should place other pages in this directory. The pages are automatically added to the app.
