@@ -1,1 +1,7 @@
 streamlit
+streamlit-ace
+numpy
+pandas
+matplotlib
+seaborn
+plotly
